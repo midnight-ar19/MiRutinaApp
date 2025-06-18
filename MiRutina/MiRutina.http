@@ -1,0 +1,6 @@
+@MiRutina_HostAddress = http://localhost:5001
+
+GET {{MiRutina_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
